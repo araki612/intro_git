@@ -1,1 +1,4 @@
-Hello World
+Git
+
+- git add
+- git commit
