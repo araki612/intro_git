@@ -4,3 +4,4 @@ Git
 - git rm
 - git commit
 - git status
+- git diff
